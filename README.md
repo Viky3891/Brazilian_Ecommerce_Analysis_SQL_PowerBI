@@ -1,6 +1,3 @@
-# Brazilian_Ecommerce_Analysis_SQL_PowerBI
-End-to-end Brazilian E-Commerce (Olist) analysis using MySQL (30 queries) and a 4-page interactive Power BI dashboard.
-
 # Brazilian E-Commerce Analysis (MySQL & Power BI)
 
 End-to-end data analysis project on 100K+ Brazilian E-Commerce (Olist) records using MySQL for relational querying and a 4-page interactive Power BI dashboard tracking revenue, customer retention, delivery performance, and review ratings (Jan 2017 – Aug 2018).
@@ -21,7 +18,7 @@ An interactive, 4-page Power BI report backed by 30 SQL business queries that ex
 ![Delivery Performance](Delivery%20Performance.png)
 
 ### 4. Payment & Review Analysis
-![Payment & Review](Payment%20%26%20Review.png)
+![Payment and Review](Payment%20and%20Review.png)
 
 ## Business Problem
 
@@ -83,13 +80,13 @@ MySQL Server 8.0, MySQL Workbench, Power BI Desktop, DAX, Power Query, Data Mode
 
 ## Repository Structure
 
-├── README.md
-├── Brazilian_Ecommerce_Analysis.sql
-├── Brazilian_Ecommerce_Dashboard.pbix
-├── Overview.png
-├── Customer Analysis.png
-├── Delivery Performance.png
-└── Payment & Review.png
+    ├── README.md
+    ├── Brazilian_Ecommerce_Analysis.sql
+    ├── Brazilian_Ecommerce_Dashboard.pbix
+    ├── Overview.png
+    ├── Customer Analysis.png
+    ├── Delivery Performance.png
+    └── Payment and Review.png
 
 ## How to Use
 
@@ -99,6 +96,6 @@ MySQL Server 8.0, MySQL Workbench, Power BI Desktop, DAX, Power Query, Data Mode
 ## Author
 
 **Vikas Pawar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/apka-actual-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 Feedback and suggestions are welcome!
